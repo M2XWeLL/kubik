@@ -1,0 +1,39 @@
+body{
+	background: url(kub.png) no-repeat center center fixed;
+	-webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    overflow-x: hidden;
+
+   
+    
+    
+
+}
+
+.link{
+	display: flex;
+	justify-content: space-between;
+	text-decoration: none;
+
+}
+.text{
+	display: flex;
+	justify-content: space-between;
+	align-items: flex-end;
+	height: 5vh;
+	overflow: hidden;
+	
+}
+.all{
+	background-color: #fff;
+	height: 90vh;
+	width: 80vw;
+	margin: 15px;
+}
+.vse{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
